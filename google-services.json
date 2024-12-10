@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761953388391",
+    "project_id": "becodemy-61a85",
+    "storage_bucket": "becodemy-61a85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761953388391:android:9e9601a8753ab8f7ee51c2",
+        "android_client_info": {
+          "package_name": "com.philipbill0077.Becodemy.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa3l58gVZl6rtvK6G7ZYypFOdgvZzCA9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
